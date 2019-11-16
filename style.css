@@ -1,0 +1,71 @@
+body{
+	margin: 0px;
+}
+a{
+	text-transform: uppercase;
+	text-decoration: none;
+}
+header{
+	width: 100%;
+	top: 0px;
+	height: 7vh;
+}
+nav{
+	display: flex;
+	background-color: rgb(12, 234, 43);
+	height: 10vh;
+	align-items: center;
+	list-style: georgian outside url('/non-existent.svg');
+}
+nav li{
+	margin-left: 2em;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+main{
+	display: flex;
+	/* height: 150vh; */
+	background-color: rgb(234, 130, 12);
+}
+section{
+	width: 65%;
+}
+figure{
+	border-radius: 5em;
+	width: 80%;
+	margin: auto;
+	background-color: #4169e1;
+	padding: 1em 2em 3em 1em;
+}
+figure img{
+	 margin-top: 20em;
+	 margin-right: -10em;
+	 position: relative;
+	 left: 20rem;
+}
+#content{
+	display: flex;
+}
+.milieu{
+	width: 25%;
+	background-color: #2bf597;
+	padding: 2em;
+
+}
+.droite{
+	width: 10%;
+	/* height: 100%; */
+	padding: 2em;
+	background-color: #9a2bf5;
+}
+footer{
+	position: fixed;
+	align-items: center;
+	height: 5vh;
+	bottom: 0px;
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+	background-color: #4b0cdf;
+	list-style: none;
+}
