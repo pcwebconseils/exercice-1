@@ -1,5 +1,9 @@
 Ouvrir le dossier
 Activer le live serveur
+Vous mettrez vos observations dans un site "onepage". 
+La présentation étant important, à vous de mettre en oeuvre le design de votre choix.
+Exemple : 
+  - CSS : body => l'application de margin: 0px donne ....
 Html : 
   -quelles sont les nouvelles balises ?
   -quels sont les nouveaux attributs sur trois balises ? Quelle est l'utilité de ces attributs
